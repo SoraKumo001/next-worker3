@@ -1,0 +1,12 @@
+{
+  "name": "rust_sums",
+  "version": "1.0.0",
+  "files": [
+    "rust_sums_bg.wasm",
+    "rust_sums.js",
+    "rust_sums.d.ts"
+  ],
+  "module": "rust_sums.js",
+  "types": "rust_sums.d.ts",
+  "sideEffects": false
+}
