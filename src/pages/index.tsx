@@ -11,7 +11,7 @@ const execute = createWorker<WorkerTest>(
 
 const Page = () => {
   const [values, setValues] = useState<(number | string)[]>([]);
-  const [a, setA] = useState(10000000);
+  const [a, setA] = useState(100000000);
   return (
     <div>
       <form>
